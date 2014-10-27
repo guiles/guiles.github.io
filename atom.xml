@@ -4,7 +4,7 @@
   <title><![CDATA[Guiles's Blog]]></title>
   <link href="http://guiles.github.io/atom.xml" rel="self"/>
   <link href="http://guiles.github.io/"/>
-  <updated>2014-10-27T14:50:39-03:00</updated>
+  <updated>2014-10-27T15:47:11-03:00</updated>
   <id>http://guiles.github.io/</id>
   <author>
     <name><![CDATA[Guillermo A. Caserotto]]></name>
@@ -18,7 +18,8 @@
     <link href="http://guiles.github.io/blog/2014/10/27/zombie-ninjas-attack-a-survivors-retrospective/"/>
     <updated>2014-10-27T14:46:30-03:00</updated>
     <id>http://guiles.github.io/blog/2014/10/27/zombie-ninjas-attack-a-survivors-retrospective</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Primer capitulo:
+Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores. Quo no falli viris intellegam, ut fugit veritus placerat per.</p>
 ]]></content>
   </entry>
   
@@ -27,7 +28,7 @@
     <link href="http://guiles.github.io/blog/2014/10/27/title/"/>
     <updated>2014-10-27T14:38:50-03:00</updated>
     <id>http://guiles.github.io/blog/2014/10/27/title</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Title title tiiiitleee</p>
 ]]></content>
   </entry>
   
